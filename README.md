@@ -1,4 +1,4 @@
-ES6FundamentalsCourseFiles
+JavaScript Fundamentals for ES6 course files
 ==========================
 
-Files for the JavaScript Fundamentals for ES6 course
+This course is currently up to date
